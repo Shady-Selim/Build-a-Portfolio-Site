@@ -25,6 +25,11 @@ h1 {
     border-top: #7d97ad solid 4px; 
 }
 
+#main-image,
+featured {
+    width: 100%;
+}
+
 #header-text,
 .featured-github-title {
     text-transform: uppercase;
